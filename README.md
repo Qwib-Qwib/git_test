@@ -1,0 +1,1 @@
+This is Ju's first Git project!
